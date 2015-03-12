@@ -1,7 +1,7 @@
 ##Flask Autocompletions and Snippets for Sublime Text 
 
-[![GitHub tag](https://img.shields.io/github/tag/geekpradd/Flask-Sublime.svg?style=flat-square)](https://github.com/idleberg/AppleScript-Sublime-Text/tags)
-[![Travis](https://img.shields.io/travis/geekpradd/Flask-Sublime.svg?style=flat-square)](https://travis-ci.org/idleberg/AppleScript-Sublime-Text)
+[![GitHub tag](https://img.shields.io/github/tag/geekpradd/Flask-Sublime.svg?style=flat-square)](https://github.com/geekpradd/Flask-Sublime/tags)
+[![Travis](https://img.shields.io/travis/geekpradd/Flask-Sublime.svg?style=flat-square)](https://travis-ci.org/geekpradd/Flask-Sublime)
 
 This is a Sublime Text Plugin which adds support for Flask API autocompletions and Flask Hello World Generation.
 
