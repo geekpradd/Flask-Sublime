@@ -1,6 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+.sublime-grunt.cache
+node_modules/
+npm-debug.log
 
 # C extensions
 *.so
