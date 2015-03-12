@@ -1,570 +1,569 @@
 {
   "scope": "source.python",
-  "tabTrigger" : "Flask",
   "completions": [
-
     {
-      "trigger": "add_template_filter",
+      "trigger": "Flask\tFlask",
+      "contents": "Flask"
+    },
+    {
+      "trigger": "add_template_filter\tFlask",
       "contents": "add_template_filter()"
     },
     {
-      "trigger": "add_template_global",
+      "trigger": "add_template_global\tFlask",
       "contents": "add_template_global()"
     },
     {
-      "trigger": "add_template_test",
+      "trigger": "add_template_test\tFlask",
       "contents": "add_template_test()"
     },
     {
-      "trigger": "add_url_rule",
+      "trigger": "add_url_rule\tFlask",
       "contents": "add_url_rule()"
     },
     {
-      "trigger": "after_request",
+      "trigger": "after_request\tFlask",
       "contents": "after_request()"
     },
     {
-      "trigger": "app_context",
+      "trigger": "app_context\tFlask",
       "contents": "app_context()"
     },
     {
-      "trigger": "auto_find_instance_path",
+      "trigger": "auto_find_instance_path\tFlask",
       "contents": "auto_find_instance_path()"
     },
     {
-      "trigger": "before_first_request",
+      "trigger": "before_first_request\tFlask",
       "contents": "before_first_request()"
     },
     {
-      "trigger": "before_request",
+      "trigger": "before_request\tFlask",
       "contents": "before_request()"
     },
     {
-      "trigger": "context_processor",
+      "trigger": "context_processor\tFlask",
       "contents": "context_processor()"
     },
     {
-      "trigger": "create_global_jinja_loader",
+      "trigger": "create_global_jinja_loader\tFlask",
       "contents": "create_global_jinja_loader()"
     },
     {
-      "trigger": "create_jinja_environment",
+      "trigger": "create_jinja_environment\tFlask",
       "contents": "create_jinja_environment()"
     },
     {
-      "trigger": "create_url_adapter",
+      "trigger": "create_url_adapter\tFlask",
       "contents": "create_url_adapter()"
     },
     {
-      "trigger": "dispatch_request",
+      "trigger": "dispatch_request\tFlask",
       "contents": "dispatch_request()"
     },
     {
-      "trigger": "do_teardown_appcontext",
+      "trigger": "do_teardown_appcontext\tFlask",
       "contents": "do_teardown_appcontext()"
     },
     {
-      "trigger": "do_teardown_request",
+      "trigger": "do_teardown_request\tFlask",
       "contents": "do_teardown_request()"
     },
     {
-      "trigger": "endpoint",
+      "trigger": "endpoint\tFlask",
       "contents": "endpoint()"
     },
     {
-      "trigger": "errorhandler",
+      "trigger": "errorhandler\tFlask",
       "contents": "errorhandler()"
     },
     {
-      "trigger": "full_dispatch_request",
+      "trigger": "full_dispatch_request\tFlask",
       "contents": "full_dispatch_request()"
     },
     {
-      "trigger": "get_send_file_max_age",
+      "trigger": "get_send_file_max_age\tFlask",
       "contents": "get_send_file_max_age()"
     },
     {
-      "trigger": "handle_exception",
+      "trigger": "handle_exception\tFlask",
       "contents": "handle_exception()"
     },
     {
-      "trigger": "handle_http_exception",
+      "trigger": "handle_http_exception\tFlask",
       "contents": "handle_http_exception()"
     },
     {
-      "trigger": "handle_url_build_error",
+      "trigger": "handle_url_build_error\tFlask",
       "contents": "handle_url_build_error()"
     },
     {
-      "trigger": "handle_user_exception",
+      "trigger": "handle_user_exception\tFlask",
       "contents": "handle_user_exception()"
     },
     {
-      "trigger": "init_jinja_globals",
+      "trigger": "init_jinja_globals\tFlask",
       "contents": "init_jinja_globals()"
     },
     {
-      "trigger": "inject_url_defaults",
+      "trigger": "inject_url_defaults\tFlask",
       "contents": "inject_url_defaults()"
     },
     {
-      "trigger": "log_exception",
+      "trigger": "log_exception\tFlask",
       "contents": "log_exception()"
     },
     {
-      "trigger": "make_config",
+      "trigger": "make_config\tFlask",
       "contents": "make_config()"
     },
     {
-      "trigger": "make_default_options_response",
+      "trigger": "make_default_options_response\tFlask",
       "contents": "make_default_options_response()"
     },
     {
-      "trigger": "make_null_session",
+      "trigger": "make_null_session\tFlask",
       "contents": "make_null_session()"
     },
     {
-      "trigger": "make_response",
+      "trigger": "make_response\tFlask",
       "contents": "make_response()"
     },
     {
-      "trigger": "open_instance_resource",
+      "trigger": "open_instance_resource\tFlask",
       "contents": "open_instance_resource()"
     },
     {
-      "trigger": "open_resource",
+      "trigger": "open_resource\tFlask",
       "contents": "open_resource()"
     },
     {
-      "trigger": "open_session",
+      "trigger": "open_session\tFlask",
       "contents": "open_session()"
     },
     {
-      "trigger": "preprocess_request",
+      "trigger": "preprocess_request\tFlask",
       "contents": "preprocess_request()"
     },
     {
-      "trigger": "process_response",
+      "trigger": "process_response\tFlask",
       "contents": "process_response()"
     },
     {
-      "trigger": "register_blueprint",
+      "trigger": "register_blueprint\tFlask",
       "contents": "register_blueprint()"
     },
     {
-      "trigger": "register_error_handler",
+      "trigger": "register_error_handler\tFlask",
       "contents": "register_error_handler()"
     },
     {
-      "trigger": "register_module",
+      "trigger": "register_module\tFlask",
       "contents": "register_module()"
     },
     {
-      "trigger": "request_context",
+      "trigger": "request_context\tFlask",
       "contents": "request_context()"
     },
     {
-      "trigger": "route",
+      "trigger": "route\tFlask",
       "contents": "route()"
     },
     {
-      "trigger": "run",
+      "trigger": "run\tFlask",
       "contents": "run()"
     },
     {
-      "trigger": "save_session",
+      "trigger": "save_session\tFlask",
       "contents": "save_session()"
     },
     {
-      "trigger": "select_jinja_autoescape",
+      "trigger": "select_jinja_autoescape\tFlask",
       "contents": "select_jinja_autoescape()"
     },
     {
-      "trigger": "send_static_file",
+      "trigger": "send_static_file\tFlask",
       "contents": "send_static_file()"
     },
     {
-      "trigger": "should_ignore_error",
+      "trigger": "should_ignore_error\tFlask",
       "contents": "should_ignore_error()"
     },
     {
-      "trigger": "teardown_appcontext",
+      "trigger": "teardown_appcontext\tFlask",
       "contents": "teardown_appcontext()"
     },
     {
-      "trigger": "teardown_request",
+      "trigger": "teardown_request\tFlask",
       "contents": "teardown_request()"
     },
     {
-      "trigger": "template_filter",
+      "trigger": "template_filter\tFlask",
       "contents": "template_filter()"
     },
     {
-      "trigger": "template_global",
+      "trigger": "template_global\tFlask",
       "contents": "template_global()"
     },
     {
-      "trigger": "template_test",
+      "trigger": "template_test\tFlask",
       "contents": "template_test()"
     },
     {
-      "trigger": "test_client",
+      "trigger": "test_client\tFlask",
       "contents": "test_client()"
     },
     {
-      "trigger": "test_request_context",
+      "trigger": "test_request_context\tFlask",
       "contents": "test_request_context()"
     },
     {
-      "trigger": "trap_http_exception",
+      "trigger": "trap_http_exception\tFlask",
       "contents": "trap_http_exception()"
     },
     {
-      "trigger": "update_template_context",
+      "trigger": "update_template_context\tFlask",
       "contents": "update_template_context()"
     },
     {
-      "trigger": "url_defaults",
+      "trigger": "url_defaults\tFlask",
       "contents": "url_defaults()"
     },
     {
-      "trigger": "url_value_preprocessor",
+      "trigger": "url_value_preprocessor\tFlask",
       "contents": "url_value_preprocessor()"
     },
     {
-      "trigger": "wsgi_app",
+      "trigger": "wsgi_app\tFlask",
       "contents": "wsgi_app()"
     },
     {
-      "trigger": "add_app_template_filter",
+      "trigger": "add_app_template_filter\tFlask",
       "contents": "add_app_template_filter()"
     },
     {
-      "trigger": "add_app_template_global",
+      "trigger": "add_app_template_global\tFlask",
       "contents": "add_app_template_global()"
     },
     {
-      "trigger": "add_app_template_test",
+      "trigger": "add_app_template_test\tFlask",
       "contents": "add_app_template_test()"
     },
     {
-      "trigger": "add_url_rule",
+      "trigger": "add_url_rule\tFlask",
       "contents": "add_url_rule()"
     },
     {
-      "trigger": "after_app_request",
+      "trigger": "after_app_request\tFlask",
       "contents": "after_app_request()"
     },
     {
-      "trigger": "after_request",
+      "trigger": "after_request\tFlask",
       "contents": "after_request()"
     },
     {
-      "trigger": "app_context_processor",
+      "trigger": "app_context_processor\tFlask",
       "contents": "app_context_processor()"
     },
     {
-      "trigger": "app_errorhandler",
+      "trigger": "app_errorhandler\tFlask",
       "contents": "app_errorhandler()"
     },
     {
-      "trigger": "app_template_filter",
+      "trigger": "app_template_filter\tFlask",
       "contents": "app_template_filter()"
     },
     {
-      "trigger": "app_template_global",
+      "trigger": "app_template_global\tFlask",
       "contents": "app_template_global()"
     },
     {
-      "trigger": "app_template_test",
+      "trigger": "app_template_test\tFlask",
       "contents": "app_template_test()"
     },
     {
-      "trigger": "app_url_defaults",
+      "trigger": "app_url_defaults\tFlask",
       "contents": "app_url_defaults()"
     },
     {
-      "trigger": "app_url_value_preprocessor",
+      "trigger": "app_url_value_preprocessor\tFlask",
       "contents": "app_url_value_preprocessor()"
     },
     {
-      "trigger": "before_app_first_request",
+      "trigger": "before_app_first_request\tFlask",
       "contents": "before_app_first_request()"
     },
     {
-      "trigger": "before_app_request",
+      "trigger": "before_app_request\tFlask",
       "contents": "before_app_request()"
     },
     {
-      "trigger": "before_request",
+      "trigger": "before_request\tFlask",
       "contents": "before_request()"
     },
     {
-      "trigger": "context_processor",
+      "trigger": "context_processor\tFlask",
       "contents": "context_processor()"
     },
     {
-      "trigger": "endpoint",
+      "trigger": "endpoint\tFlask",
       "contents": "endpoint()"
     },
     {
-      "trigger": "errorhandler",
+      "trigger": "errorhandler\tFlask",
       "contents": "errorhandler()"
     },
     {
-      "trigger": "get_send_file_max_age",
+      "trigger": "get_send_file_max_age\tFlask",
       "contents": "get_send_file_max_age()"
     },
     {
-      "trigger": "make_setup_state",
+      "trigger": "make_setup_state\tFlask",
       "contents": "make_setup_state()"
     },
     {
-      "trigger": "open_resource",
+      "trigger": "open_resource\tFlask",
       "contents": "open_resource()"
     },
     {
-      "trigger": "record",
+      "trigger": "record\tFlask",
       "contents": "record()"
     },
     {
-      "trigger": "record_once",
+      "trigger": "record_once\tFlask",
       "contents": "record_once()"
     },
     {
-      "trigger": "register",
+      "trigger": "register\tFlask",
       "contents": "register()"
     },
     {
-      "trigger": "route",
+      "trigger": "route\tFlask",
       "contents": "route()"
     },
     {
-      "trigger": "send_static_file",
+      "trigger": "send_static_file\tFlask",
       "contents": "send_static_file()"
     },
     {
-      "trigger": "teardown_app_request",
+      "trigger": "teardown_app_request\tFlask",
       "contents": "teardown_app_request()"
     },
     {
-      "trigger": "teardown_request",
+      "trigger": "teardown_request\tFlask",
       "contents": "teardown_request()"
     },
     {
-      "trigger": "url_defaults",
+      "trigger": "url_defaults\tFlask",
       "contents": "url_defaults()"
     },
     {
-      "trigger": "url_value_preprocessor",
+      "trigger": "url_value_preprocessor\tFlask",
       "contents": "url_value_preprocessor()"
     },
     {
-      "trigger": "get_json",
+      "trigger": "get_json\tFlask",
       "contents": "get_json()"
     },
     {
-      "trigger": "on_json_loading_failed",
+      "trigger": "on_json_loading_failed\tFlask",
       "contents": "on_json_loading_failed()"
     },
     {
-      "trigger": "set_cookie",
+      "trigger": "set_cookie\tFlask",
       "contents": "set_cookie()"
     },
     {
-      "trigger": "get_cookie_domain",
+      "trigger": "get_cookie_domain\tFlask",
       "contents": "get_cookie_domain()"
     },
     {
-      "trigger": "get_cookie_httponly",
+      "trigger": "get_cookie_httponly\tFlask",
       "contents": "get_cookie_httponly()"
     },
     {
-      "trigger": "get_cookie_path",
+      "trigger": "get_cookie_path\tFlask",
       "contents": "get_cookie_path()"
     },
     {
-      "trigger": "get_cookie_secure",
+      "trigger": "get_cookie_secure\tFlask",
       "contents": "get_cookie_secure()"
     },
     {
-      "trigger": "get_expiration_time",
+      "trigger": "get_expiration_time\tFlask",
       "contents": "get_expiration_time()"
     },
     {
-      "trigger": "is_null_session",
+      "trigger": "is_null_session\tFlask",
       "contents": "is_null_session()"
     },
     {
-      "trigger": "make_null_session",
+      "trigger": "make_null_session\tFlask",
       "contents": "make_null_session()"
     },
     {
-      "trigger": "open_session",
+      "trigger": "open_session\tFlask",
       "contents": "open_session()"
     },
     {
-      "trigger": "save_session",
+      "trigger": "save_session\tFlask",
       "contents": "save_session()"
     },
     {
-      "trigger": "session_transaction",
+      "trigger": "session_transaction\tFlask",
       "contents": "session_transaction()"
     },
     {
-      "trigger": "striptags",
+      "trigger": "striptags\tFlask",
       "contents": "striptags()"
     },
     {
-      "trigger": "unescape",
+      "trigger": "unescape\tFlask",
       "contents": "unescape()"
     },
     {
-      "trigger": "default",
+      "trigger": "default\tFlask",
       "contents": "default()"
     },
     {
-      "trigger": "from_envvar",
+      "trigger": "from_envvar\tFlask",
       "contents": "from_envvar()"
     },
     {
-      "trigger": "from_object",
+      "trigger": "from_object\tFlask",
       "contents": "from_object()"
     },
     {
-      "trigger": "from_pyfile",
+      "trigger": "from_pyfile\tFlask",
       "contents": "from_pyfile()"
     },
     {
-      "trigger": "copy",
+      "trigger": "copy\tFlask",
       "contents": "copy()"
     },
     {
-      "trigger": "match_request",
+      "trigger": "match_request\tFlask",
       "contents": "match_request()"
     },
     {
-      "trigger": "pop",
+      "trigger": "pop\tFlask",
       "contents": "pop()"
     },
     {
-      "trigger": "push",
+      "trigger": "push\tFlask",
       "contents": "push()"
     },
     {
-      "trigger": "pop",
+      "trigger": "pop\tFlask",
       "contents": "pop()"
     },
     {
-      "trigger": "push",
+      "trigger": "push\tFlask",
       "contents": "push()"
     },
     {
-      "trigger": "add_url_rule",
+      "trigger": "add_url_rule\tFlask",
       "contents": "add_url_rule()"
     },
     {
-      "trigger": "signal",
+      "trigger": "signal\tFlask",
       "contents": "signal()"
     },
     {
-      "trigger": "dispatch_request",
+      "trigger": "dispatch_request\tFlask",
       "contents": "dispatch_request()"
     },
     {
-      "trigger": "has_request_context",
+      "trigger": "has_request_context\tFlask",
       "contents": "has_request_context()"
     },
     {
-      "trigger": "copy_current_request_context",
+      "trigger": "copy_current_request_context\tFlask",
       "contents": "copy_current_request_context()"
     },
     {
-      "trigger": "has_app_context",
+      "trigger": "has_app_context\tFlask",
       "contents": "has_app_context()"
     },
     {
-      "trigger": "url_for",
+      "trigger": "url_for\tFlask",
       "contents": "url_for()"
     },
     {
-      "trigger": "abort",
+      "trigger": "abort\tFlask",
       "contents": "abort()"
     },
     {
-      "trigger": "redirect",
+      "trigger": "redirect\tFlask",
       "contents": "redirect()"
     },
     {
-      "trigger": "make_response",
+      "trigger": "make_response\tFlask",
       "contents": "make_response()"
     },
     {
-      "trigger": "after_this_request",
+      "trigger": "after_this_request\tFlask",
       "contents": "after_this_request()"
     },
     {
-      "trigger": "send_file",
+      "trigger": "send_file\tFlask",
       "contents": "send_file()"
     },
     {
-      "trigger": "send_from_directory",
+      "trigger": "send_from_directory\tFlask",
       "contents": "send_from_directory()"
     },
     {
-      "trigger": "safe_join",
+      "trigger": "safe_join\tFlask",
       "contents": "safe_join()"
     },
     {
-      "trigger": "escape → markup",
+      "trigger": "escape → markup\tFlask",
       "contents": "escape() → markup"
     },
     {
-      "trigger": "flash",
+      "trigger": "flash\tFlask",
       "contents": "flash()"
     },
     {
-      "trigger": "get_flashed_messages",
+      "trigger": "get_flashed_messages\tFlask",
       "contents": "get_flashed_messages()"
     },
     {
-      "trigger": "json.jsonify",
+      "trigger": "json.jsonify\tFlask",
       "contents": "json.jsonify()"
     },
     {
-      "trigger": "json.dumps",
+      "trigger": "json.dumps\tFlask",
       "contents": "json.dumps()"
     },
     {
-      "trigger": "json.dump",
+      "trigger": "json.dump\tFlask",
       "contents": "json.dump()"
     },
     {
-      "trigger": "json.loads",
+      "trigger": "json.loads\tFlask",
       "contents": "json.loads()"
     },
     {
-      "trigger": "json.load",
+      "trigger": "json.load\tFlask",
       "contents": "json.load()"
     },
     {
-      "trigger": "render_template",
+      "trigger": "render_template\tFlask",
       "contents": "render_template()"
     },
     {
-      "trigger": "render_template_string",
+      "trigger": "render_template_string\tFlask",
       "contents": "render_template_string()"
     },
     {
-      "trigger": "get_template_attribute",
+      "trigger": "get_template_attribute\tFlask",
       "contents": "get_template_attribute()"
     },
     {
-      "trigger": "stream_with_context",
+      "trigger": "stream_with_context\tFlask",
       "contents": "stream_with_context()"
-    },
-    {
-      "note": "Auto generated in Python (so it's kinda Robotic)"
     }
   ]
 }
