@@ -7,10 +7,10 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/geekpradd/Flask-Sublime"
+    "url": "https://github.com/taithethai/Flask-Sublime"
   },
   "bugs": {
-    "url": "https://github.com/geekpradd/Flask-Sublime/issues"
+    "url": "https://github.com/taithethai/Flask-Sublime/issues"
   },
   "devDependencies": {
     "grunt":               "^0.4.5",
