@@ -24,7 +24,7 @@ To generate the Flask Hello World `app.py` file in one go, enter `Flask` in your
 ###About
 
 Created By Pradipta. Copyright 2015.
-
+Modified By TaiTheThai. Copyright 2017.
 MIT Licensed.
 
 Snippets and Auto Completions generated using Python requests and BeautifulSoup4.
