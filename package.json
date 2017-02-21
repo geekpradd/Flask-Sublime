@@ -1,16 +1,16 @@
 {
-  "name": "Flask-Sublime",
+  "name": "FlaskCompletionAssistant",
   "description": "Flask Autocompletions and Snippets for Sublime Text",
-  "version" : "1.0.0",
-  "author" : "pradipta Bora",
+  "version" : "1.1.1",
+  "author" : "pradipta Bora and TaiTheThai",
   "license" : "MIT",
-  "private": true,
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/geekpradd/Flask-Sublime"
+    "url": "https://github.com/taithethai/Flask-Sublime"
   },
   "bugs": {
-    "url": "https://github.com/geekpradd/Flask-Sublime/issues"
+    "url": "https://github.com/taithethai/Flask-Sublime/issues"
   },
   "devDependencies": {
     "grunt":               "^0.4.5",
